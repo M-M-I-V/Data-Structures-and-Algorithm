@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class SettingDevEnvironment {
 	
-	private static final String url = "jdbc:mysql://localhost:3306/db_lacandazo";
+	private static final String url = "jdbc:mysql://localhost:3306/demo";
 	private static final String user = "root";
 	private static final String password = "";
 
